@@ -10,7 +10,7 @@ const int DEMO_SIZE = 5;  // Number of positions in a demonstration throttle
 
 int main()
 {
-	throttle sample(DEMO_SIZE);  // A throttle to use for our demonstration
+	throttle sample(DEMO_SIZE);  // A throttle to use for our demonstrationS
 	int user_input;              // The position that we set the throttle to
 
 								 // Set the sample throttle to a position indicated by the user.
